@@ -1,0 +1,37 @@
+html, body {
+    height: inherit;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.mantine-RichTextEditor-content{
+    div{
+        padding: 10px;
+        min-height: 300px;
+        border: 0!important;
+        word-break: break-all;
+        outline: none;
+        &:focus{
+            border: 0!important;
+            outline: none;
+        }
+    }
+    
+}
+.container{
+    width: 60%;
+    @media (max-width: 36em) {
+        width: 100%;
+      }
+}
+
+// Overide styles for schedule editor
+.PagesGridView{
+    .PageItem{
+      background-color:#fff !important;
+      border: 0!important;
+    }
+  } 
