@@ -91,7 +91,6 @@ const SendEmailPortal = (): React.JSX.Element | null => {
     }
 
     const messageBody: MessageBody = {
-      // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
       body: message,
       plaintext: plainText,
       subject,

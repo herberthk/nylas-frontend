@@ -72,6 +72,12 @@ This application comes with the following features:
 ### Not found page
 ![Inbox dark](/screenshots/not%20found.png)
 
+## Demo Videos
+#### Part One
+https://www.loom.com/share/ca719f6ef9334ebeb6ee9671429fed0f
+
+#### Part two
+https://www.loom.com/share/4c04919be92d4a28b5101e35446fac3e
 
 
 

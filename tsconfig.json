@@ -23,6 +23,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "app/**/.tsx", ".next/types/**/*.ts",".eslintrc.js", "components/schedule/schedule-editor.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "app/**/.tsx", ".next/types/**/*.ts",".eslintrc.js"],
   "exclude": ["node_modules"],
 }

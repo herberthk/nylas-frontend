@@ -93,6 +93,7 @@ const MessageDetail: FC<Props> = ({ message }): React.JSX.Element => {
           </Group>
         </Box>
         <Box
+          suppressHydrationWarning
           dangerouslySetInnerHTML={{
             __html: cleanEmailBody(message.body),
           }}
