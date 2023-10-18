@@ -8,7 +8,7 @@ This application comes with the following features:
 
 - Send and receive emails
 - Create and read calendar events
-- Schedudule meets
+- Schedule meetings
 - Auto responder with the power of Chart GPT
 - Built with typescript with strict eslint rules
 - Dark mode theme support
@@ -49,6 +49,7 @@ This application comes with the following features:
 - Storybook
 - Eslint
 - Saas
+- Zustand for state management
 - Many others..
 
 ### Login light theme
