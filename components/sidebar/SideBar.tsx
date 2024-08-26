@@ -42,6 +42,7 @@ const SideBar = (): React.JSX.Element => {
 
   const drafts = useNylasStore((state) => state.drafts);
   const sent = useNylasStore((state) => state.sentMessages);
+
   type LinkType = {
     link: string;
     label: string;
